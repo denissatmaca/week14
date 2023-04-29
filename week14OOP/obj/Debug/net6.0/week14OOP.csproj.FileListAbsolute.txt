@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.exe
+C:\Users\monster\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.deps.json
+C:\Users\monster\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.runtimeconfig.json
+C:\Users\monster\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.dll
+C:\Users\monster\source\repos\week14OOP\week14OOP\bin\Debug\net6.0\week14OOP.pdb
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.AssemblyInfo.cs
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.dll
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\refint\week14OOP.dll
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.pdb
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\week14OOP.genruntimeconfig.cache
+C:\Users\monster\source\repos\week14OOP\week14OOP\obj\Debug\net6.0\ref\week14OOP.dll
